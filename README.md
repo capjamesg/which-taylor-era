@@ -1,6 +1,6 @@
 # Which Taylor Swift Era Are You?
 
-A Snap Lens that lets you see which Taylor Swift Era you are.
+A Snap Lens that lets you see [which Taylor Swift Era you are](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=8bd6cc0359ec40d8bd150aef82e19264&metadata=01).
 
 Scan the Snapcode below to use the Lens.
 
