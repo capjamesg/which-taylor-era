@@ -9,3 +9,5 @@ Scan the Snapcode below to use the Lens.
 ## License
 
 This project is licensed under an [Apache 2.0 License](LICENSE).
+
+The copyright for the album covers in this project is reserved by Taylor Swift.
